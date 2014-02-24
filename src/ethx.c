@@ -7,6 +7,8 @@
 #include <linux/rtnetlink.h>
 #include <linux/if_arp.h>
 
+#include "ethx.h"
+
 static struct master *master;
 
 static int vdev_master_netdev_event(unsigned long event, struct net_device *master_dev)

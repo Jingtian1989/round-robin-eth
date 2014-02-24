@@ -1,5 +1,5 @@
-#ifndef _EHTX_H_
-#define _EHTX_H_
+#ifndef _ETHX_H_
+#define _ETHX_H_
 
 
 #define ETHX_NAME "ethx"
