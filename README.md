@@ -16,8 +16,7 @@ In order to run, this software require the following dependencies:
 
 ##	Implementation Details
 
-Balance network traffic between devices, I add a virtual layer(the r-r eth)
-between the upper applications and lower devices.
+Adding a virtual layer(the r-r eth) between the upper applications and lower devices to balance network traffic.
 
 ###	intercept incomes
 
